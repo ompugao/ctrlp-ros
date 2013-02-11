@@ -1,7 +1,7 @@
 ctrlp-ros
 =========
 
-ctrlp interface for rosvim.vim(https://gist.github.com/3851056)
+ctrlp interface for [ros.vim](http://github.com/ompugao/ros.vim.git)
 
 # Usage
 
